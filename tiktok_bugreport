@@ -1,0 +1,10 @@
+Bug Id: 113
+Title: Friend list not displayed if sharing a video
+Severity: Minor
+Priority: Normal
+Environment: iphone 13 mini, IOS 15.5
+Precondition: Open the app and trying to share the video with friends
+STR:
+1.Open the app
+2. Press button "Share" to see the list of friends and choose who you want to send a video
+AR: Friends list is not displayed. User can't hare video with his friends. 
